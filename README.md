@@ -55,6 +55,7 @@ Requirements, developer selection, scheduling, and budget estimates are being pr
 
 - **Project Brief:** [Fiverr Project Brief](https://docs.google.com/document/d/1Ab-XpqBai3IDgIGZUP5Nj9Lm_KiE88NYiJjpti9SK8s/edit?usp=sharing).
 - **Project Tracker:** [Health Facility Locator - Project Tracker](https://docs.google.com/spreadsheets/d/10A-pPfKJE6CdWnL7lt7eHQ9lbzaKaxiVogLi6FykCik/edit?usp=sharing)
+- **GitHub Development Workflow:** [Health Facility Locator - Github Development Workflow](https://docs.google.com/document/d/1cRDdeifZnf2HNRu_FXO6uLvBZU3hwy9O-kmCL3AIILM/edit?usp=sharing)
 - **Developer Evaluation:** To be added.
 
 ## Scope Note
